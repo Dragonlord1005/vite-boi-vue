@@ -29,7 +29,8 @@
 				"aaron-bond.better-comments",
 				"GitHub.copilot",
 				"WakaTime.vscode-wakatime",
-				"voorjaar.windicss-intellisense"
+				"voorjaar.windicss-intellisense",
+				"Vue.volar"
 			]
 		}
 	},
